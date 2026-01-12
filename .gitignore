@@ -1,0 +1,9 @@
+#Ignore
+/reports/
+/screenshots/
+/logs/
+*.class
+*.log
+.idea/
+.vscode/
+/target/
